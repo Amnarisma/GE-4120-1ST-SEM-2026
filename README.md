@@ -2,9 +2,12 @@
 A collection of projects during the prelim period
 
 ## TABLE OF CONTENTS
-- [Activity 1](#Activity1)
-- [Activity 2](#Activity2)
-- [Activity 3](#Activity3)
+- [Activity 1](#Activity-1)
+- [Activity 2](#Activity-2)
+- [Activity 3](#Activity-3)
 
+# Activity 1
 
-# Activity2
+# Activity 2
+
+# Activity 3
