@@ -22,5 +22,6 @@ A collection of projects during the prelim period
 # Activity 3
 ## Social Media Infographics & Project Documentation
 <img width="800" height="2000" alt="Infographic_NARISMA" src="https://github.com/user-attachments/assets/28c4ec3e-a0ca-4dfb-9818-6faa4bea63dc" />
+
 [Project Documentation_NARISMA.pdf](https://github.com/user-attachments/files/31612056/Project.Documentation_NARISMA.pdf)
 
