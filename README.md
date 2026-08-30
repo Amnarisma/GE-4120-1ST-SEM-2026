@@ -7,4 +7,4 @@ A collection of projects during the prelim period
 - [Activity 3](#Activity3)
 
 
-#Activity2
+# Activity2
