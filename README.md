@@ -8,6 +8,8 @@ PRELIMS
 - [Activity 2](#Activity-2)
 - [Activity 3](#Activity-3)
 
+</br>
+
 MIDTERMS
 - [Google Slides Presentation](#Google-Slides-Presentation)
 
@@ -32,6 +34,7 @@ PRELIMS
 
 [Project Documentation_NARISMA.pdf](https://github.com/user-attachments/files/31612056/Project.Documentation_NARISMA.pdf)
 
+</br>
 
 MIDTERMS
 # Google Slides Presentation
