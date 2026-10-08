@@ -13,6 +13,8 @@ PRELIMS
 MIDTERMS
 - [Google Slides Presentation](#Google-Slides-Presentation)
 
+</br>
+</br>
 
 PRELIMS
 # Activity 1
