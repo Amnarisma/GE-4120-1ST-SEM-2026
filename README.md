@@ -2,10 +2,17 @@
 A collection of projects during the prelim period
 
 ## TABLE OF CONTENTS
+
+PRELIMS
 - [Activity 1](#Activity-1)
 - [Activity 2](#Activity-2)
 - [Activity 3](#Activity-3)
 
+MIDTERMS
+- [Google Slides Presentation](#Google-Slides-Presentation)
+
+
+PRELIMS
 # Activity 1
 ## Presentation Design Principles
 <img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_NARISMA" src="https://github.com/user-attachments/assets/cf1e7571-39d4-4894-a450-7d5181ee34c1" />
@@ -24,4 +31,9 @@ A collection of projects during the prelim period
 <img width="800" height="2000" alt="Infographic_NARISMA" src="https://github.com/user-attachments/assets/28c4ec3e-a0ca-4dfb-9818-6faa4bea63dc" />
 
 [Project Documentation_NARISMA.pdf](https://github.com/user-attachments/files/31612056/Project.Documentation_NARISMA.pdf)
+
+
+MIDTERMS
+# Google Slides Presentation
+[Google Slides](https://docs.google.com/presentation/d/1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs/edit?usp=sharing)
 
