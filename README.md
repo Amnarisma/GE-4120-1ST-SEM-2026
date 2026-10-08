@@ -11,7 +11,7 @@ PRELIMS
 </br>
 
 MIDTERMS
-- [GROUP 4 - Google Slides Presentation](#GROUP-4-Google-Slides-Presentation)
+- [Google Slides Presentation](#Google-Slides-Presentation)
 
 </br>
 </br>
@@ -39,6 +39,6 @@ PRELIMS
 </br>
 
 MIDTERMS
-# GROUP 4 - Google Slides Presentation
-[Google Slides Presentation](https://docs.google.com/presentation/d/1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs/edit?usp=sharing)
+# Google Slides Presentation
+[GROUP 4 - Google Slides Presentation](https://docs.google.com/presentation/d/1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs/edit?usp=sharing)
 
