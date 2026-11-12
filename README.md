@@ -49,35 +49,6 @@
 </table>
 ---
 
-## 🩵 MY INTERESTS
-
-<p align="center">
-
-`📚 BOOKS` &nbsp;&nbsp;
-`🎬 MOVIES` &nbsp;&nbsp;
-`🎵 MUSIC` &nbsp;&nbsp;
-`🎮 GAMES`
-
-</p>
-
----
-
-## 🛠️ TOOLS
-
-<table>
-<tr>
-<td>💻 Microsoft PowerPoint</td>
-<td>🎨 Canva</td>
-</tr>
-
-<tr>
-<td>📊 Google Slides</td>
-<td>🖥️ GitHub</td>
-</tr>
-</table>
-
----
-
 # 📚 ACTIVITIES
 
 ## ✦ PRELIMS
