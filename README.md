@@ -65,19 +65,19 @@ This activity focused on creating visual content and documenting the project dev
 
 #### Activity 5 — [Activity Title]
 
-[View Activity 5](./Activity-5/)
+[View Activity 5](./FINALS/ACTIVITY%205/)
 
 [Short description of Activity 5.]
 
 #### Activity 6 — [Activity Title]
 
-[View Activity 6](./Activity-6/)
+[View Activity 6](./FINALS/ACTIVITY%206/)
 
 [Short description of Activity 6.]
 
 #### Activity 7 — [Activity Title]
 
-[View Activity 7](./Activity-7/)
+[View Activity 7](./FINALS/ACTIVITY%207/)
 
 [Short description of Activity 7.]
 
