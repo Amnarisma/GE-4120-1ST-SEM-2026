@@ -19,6 +19,18 @@ This activity explored the use of artificial intelligence tools in generating im
       alt="View Image Creation PDF"
     />
   </a>
+
+<a
+    href="https://github.com/Amnarisma/GE-4120-1ST-SEM-2026/blob/main/FINALS/ACTIVITY%205/FILE/IMAGE%20CREATION.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/VIEW%20IMAGE%20CREATION%20PDF-DC2626?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"
+      alt="View Image Creation PDF"
+    />
+  </a>
+  
 </p>
 
 ---
