@@ -1,4 +1,4 @@
-# GE-4120 — 1st Semester 2026
+# GE-4120 — 1st Semester SY 2026-2027
 A collection of my activities, projects, and outputs for **GE-4120** during the **1st Semester of Academic Year 2026–2027**.
 
 ---
@@ -7,31 +7,23 @@ A collection of my activities, projects, and outputs for **GE-4120** during the 
 
 <img width="180" height="180" alt="NARISMA - ID PIC" src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"/>
 
-**Name:** [Your Full Name]  
-**Course:** [Your Course]  
-**Year Level:** [Your Year Level]  
-**School:** [Your School]
+**Name:** Narisma, Aryil Mari O. 
+**Course:** BS Nursing
+**Year Level:** 4
+**School:** Ateneo de Davao University
 
-Hello! I am a [year level] student taking up **[course]** at **[school]**. This repository contains my academic activities and projects for GE-4120. Through these activities, I have developed my skills in digital presentation, personal branding, visual communication, information design, and project documentation.
+Hello! This repository contains my academic activities and projects for GE-4120. Through these activities, I tried to developed my skills in this subject.
 
 ### My Interests
+- books
+- movies
+- music
+- games
 
-- Digital design and visual communication
-- Creative projects and multimedia
-- Presentation design
-- Personal branding
-- Technology and digital tools
-
-### Skills & Tools
-
+### Tools
 - Microsoft PowerPoint
 - Google Slides
 - Canva
-- Graphic and visual design
-- Presentation design
-- Infographic creation
-- Digital documentation
-- GitHub and Git
 
 ---
 
