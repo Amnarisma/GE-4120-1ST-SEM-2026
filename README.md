@@ -59,6 +59,10 @@ This activity focused on creating visual content and documenting the project dev
 
 [Short description of Activity 4.]
 
+---
+
+### FINALS
+
 #### Activity 5 — [Activity Title]
 
 [View Activity 5](./Activity-5/)
