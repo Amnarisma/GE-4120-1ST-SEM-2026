@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/marvel-rivals/images/7/7e/Invisible_Woman_Full_Nameplate_-_Azure_Shade.gif/revision/latest?cb=20260406102415"
-       width="100%"
+       width="80%"
        alt="Azure Shade Nameplate">
 </p>
 
