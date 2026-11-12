@@ -14,6 +14,13 @@ This activity focused on developing a personal brand by identifying individual s
     alt="Vertical Logo"
     width="100%"
   />
+  
+  <img
+    src="./FILES/2.%20Tagline%20-%20Vertical.png"
+    alt="Vertical Tagline"
+    width="100%"
+  />
+  
 </p>
 
 ---
