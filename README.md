@@ -39,13 +39,13 @@ This activity focused on applying basic principles of effective presentation des
 
 #### Activity 2 — Personal Branding
 
-[View Activity 2](./Activity-2/)
+[View Activity 2](./PRELIMS/ACTIVITY%202/)
 
 This activity focused on developing a personal visual identity through branding materials.
 
 #### Activity 3 — Social Media Infographics & Project Documentation
 
-[View Activity 3](./Activity-3/)
+[View Activity 3](./PRELIMS/ACTIVITY%201/)
 
 This activity focused on creating visual content and documenting the project development process.
 
