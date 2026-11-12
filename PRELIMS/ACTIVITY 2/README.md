@@ -33,6 +33,18 @@ This activity focused on developing a personal brand by identifying individual s
     width="100%"
   />
 
+  <img
+    src="./5.%20Color%20Palette%20%26%20Typography%20Set.png"
+    alt="Color Palette and Typography Set"
+    width="100%"
+  />
+
+  <img
+    src="./FILES/6.%20Resume%20Header.png"
+    alt="Resume Header"
+    width="100%"
+  />  
+
 </p>
 
 ---
