@@ -1,3 +1,14 @@
+my-ge4120-final/
+├── README.md
+├── Activity-1/
+│   ├── README.md
+│   └── ...source files
+├── Activity-2/
+│   ├── README.md
+│   └── ...source files
+└── ... through Activity-7/
+
+
 # GE-4120-1ST-SEM-2026
 A collection of projects during the prelim period
 
