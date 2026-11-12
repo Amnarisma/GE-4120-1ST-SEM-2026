@@ -5,7 +5,7 @@ A collection of my activities, projects, and outputs for **GE-4120** during the 
 
 ## About Me
 
-<img width="3000" height="2984" alt="NARISMA - ID PIC" src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"/>
+<img width="180" height="180" alt="NARISMA - ID PIC" src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"/>
 
 **Name:** [Your Full Name]  
 **Course:** [Your Course]  
