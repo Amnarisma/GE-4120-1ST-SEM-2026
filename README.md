@@ -33,7 +33,7 @@ Hello! This repository contains my academic activities and projects for GE-4120.
 
 #### Activity 1 — Presentation Design Principles
 
-[View Activity 1](./Activity-1/)
+[View Activity 1](./PRELIMS/ACTIVITY%201/)
 
 This activity focused on applying basic principles of effective presentation design.
 
