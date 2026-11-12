@@ -6,6 +6,18 @@ This activity focused on learning and applying the fundamental principles of eff
 
 ---
 
+### 🖼️ Activity Output
+
+<p align="center">
+  <img
+    src="./FILE/ACTIVITY%201%20-%20GE%204120_NARISMA.png"
+    alt="Activity 1 - Presentation Design Principles"
+    width="100%"
+  />
+</p>
+
+---
+
 ### 🩵 What Have I Learned?
 
 <div align="justify">
