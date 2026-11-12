@@ -10,6 +10,14 @@ This activity involved creating informative and visually appealing infographics 
 ### 🖼️ Activity Output
 
 <p align="center">
+  <img
+    src="./FILES/Infographic_NARISMA.png"
+    alt="Social Media Infographic"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <a
     href="https://github.com/Amnarisma/GE-4120-1ST-SEM-2026/blob/main/FINALS/ACTIVITY%203/FILES/PROJECT%20DOCUMENTATION.pdf"
     target="_blank"
