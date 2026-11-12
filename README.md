@@ -1,17 +1,3 @@
-# 🌌 GE-4120 — 1st Semester SY 2026–2027
-
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/marvel-rivals/images/7/7e/Invisible_Woman_Full_Nameplate_-_Azure_Shade.gif/revision/latest?cb=20260406102415"
-       width="80%"
-       alt="Azure Shade Nameplate">
-</p>
-
-<p align="center">
-  <b>Digital Portfolio • Activities • Projects • Learning Journey</b>
-</p>
-
----
-
 ## 💠 ABOUT ME
 
 <p align="center">
@@ -162,44 +148,3 @@ This activity focused on creating and presenting a collaborative Google Slides p
 [Short description of Activity 7.]
 
 ---
-
-# 🧊 REPOSITORY MAP
-
-```text
-GE-4120-1ST-SEM-2026-2027/
-│
-├── README.md
-│
-├── PRELIMS/
-│   │
-│   ├── ACTIVITY 1/
-│   │   ├── README.md
-│   │   └── activity-1-files
-│   │
-│   ├── ACTIVITY 2/
-│   │   ├── README.md
-│   │   └── activity-2-files
-│   │
-│   └── ACTIVITY 3/
-│       ├── README.md
-│       └── activity-3-files
-│
-├── MIDTERMS/
-│   │
-│   └── ACTIVITY 4/
-│       ├── README.md
-│       └── activity-4-files
-│
-└── FINALS/
-    │
-    ├── ACTIVITY 5/
-    │   ├── README.md
-    │   └── activity-5-files
-    │
-    ├── ACTIVITY 6/
-    │   ├── README.md
-    │   └── activity-6-files
-    │
-    └── ACTIVITY 7/
-        ├── README.md
-        └── activity-7-files
