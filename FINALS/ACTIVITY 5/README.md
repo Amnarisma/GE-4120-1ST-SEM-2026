@@ -15,7 +15,7 @@ This activity explored the use of artificial intelligence tools in generating im
     rel="noopener noreferrer"
   >
     <img
-      src="https://img.shields.io/badge/VIEW%20IMAGE%20CREATION%20PDF-DC2626?style=for-the-badge&logo=github&logoColor=white""
+      src="https://img.shields.io/badge/VIEW%20IMAGE%20CREATION%20PDF-5B8DEF?style=for-the-badge&logo=github&logoColor=white"
       alt="View Image Creation PDF"
     />
   </a>
