@@ -11,8 +11,8 @@ This activity involved creating informative and visually appealing infographics 
 
 <p align="center">
   <img
-    src="./FILES/Infographic_NARISMA.png"
-    alt="Social Media Infographic"
+    src="./FILES/Infographic.png"
+    alt="Natural Disasters Infographic"
     width="100%"
   />
 </p>
