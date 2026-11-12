@@ -1,8 +1,8 @@
 # 🔹 Activity 2 — Personal Branding
 
-> **Focus:** Presentation Design
+> **Focus:** Personal Visual Identity
 
-This activity focused on learning and applying the fundamental principles of effective presentation design. It involved organizing information, selecting appropriate colors and fonts, maintaining visual consistency, and creating slides that communicate ideas clearly and effectively.
+This activity focused on developing a personal brand by identifying individual strengths, skills, interests, and characteristics. It explored how to present oneself professionally and create a positive impression through digital platforms and other forms of communication.
 
 ---
 
@@ -10,7 +10,7 @@ This activity focused on learning and applying the fundamental principles of eff
 
 <p align="center">
   <img
-    src="./FILE/ACTIVITY%201%20-%20GE%204120_NARISMA.png"
+    src="./FILES/ACTIVITY%201%20-%20GE%204120_NARISMA.png"
     alt="Activity 1 - Presentation Design Principles"
     width="100%"
   />
