@@ -76,7 +76,7 @@ Hello! I am a **4th-year BS Nursing student at Ateneo de Davao University**. Thi
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%201-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 1">
 </a>
 
-This activity focused on applying basic principles of effective presentation design.
+This activity explored the fundamental principles of effective presentation design, focusing on visual hierarchy, layout, typography, and clarity in communicating information.
 
 ---
 
@@ -88,7 +88,7 @@ This activity focused on applying basic principles of effective presentation des
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%202-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 2">
 </a>
 
-This activity focused on developing a personal visual identity through branding materials.
+This activity involved developing a personal brand through the creation of a logo, tagline, color palette, typography, and other visual elements that represent my identity.
 
 ---
 
@@ -100,7 +100,7 @@ This activity focused on developing a personal visual identity through branding 
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%203-36CFC9?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 3">
 </a>
 
-This activity focused on creating visual content and documenting the project development process.
+This activity focused on creating engaging social media infographics and documenting the creative process through organized and informative project documentation.
 
 ---
 
@@ -114,7 +114,7 @@ This activity focused on creating visual content and documenting the project dev
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%204-6C63FF?style=for-the-badge&logo=google&logoColor=white" alt="View Activity 4">
 </a>
 
-This activity focused on creating and presenting a collaborative Google Slides presentation.
+This activity involved developing a collaborative Google Slides presentation, applying presentation design techniques and digital tools to organize and communicate information effectively.
 
 ---
 
@@ -126,7 +126,7 @@ This activity focused on creating and presenting a collaborative Google Slides p
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%205-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 5">
 </a>
 
-[Short description of Activity 5.]
+This activity explored the use of artificial intelligence tools in generating ideas, assisting with creative tasks, and improving productivity through AI-assisted digital solutions.
 
 ---
 
@@ -136,7 +136,7 @@ This activity focused on creating and presenting a collaborative Google Slides p
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%206-36CFC9?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 6">
 </a>
 
-[Short description of Activity 6.]
+This activity focused on designing and developing a website using web development tools and technologies, applying concepts of layout, navigation, and user-friendly interface design.
 
 ---
 
@@ -146,6 +146,6 @@ This activity focused on creating and presenting a collaborative Google Slides p
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%207-8A7DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 7">
 </a>
 
-[Short description of Activity 7.]
+This activity involved creating a professional resume using digital tools, organizing personal information, educational background, skills, and qualifications into a clear and presentable format.
 
 ---
