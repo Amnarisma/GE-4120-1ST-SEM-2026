@@ -56,4 +56,3 @@ This activity focused on developing a personal brand by identifying individual s
 </div>
 
 ---
-
