@@ -18,12 +18,9 @@ This activity involved creating informative and visually appealing infographics 
 </p>
 
 <p align="center">
-  <iframe
-    src="./FILES/Project%20Documentation.pdf"
-    width="100%"
-    height="700px"
-    title="Project Documentation PDF">
-  </iframe>
+  📄 <a href="./FILES/Project%20Documentation.pdf"> 
+        View Project Documentation (PDF)
+      </a>
 </p>
 
 ---
