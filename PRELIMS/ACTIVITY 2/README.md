@@ -20,7 +20,19 @@ This activity focused on developing a personal brand by identifying individual s
     alt="Vertical Tagline"
     width="100%"
   />
-  
+
+  <img
+    src="./FILES/3.%20Logo%20-%20Horizontal.png"
+    alt="Horizontal Logo"
+    width="100%"
+  />
+
+  <img
+    src="./FILES/4.%20Tagline%20-%20Horizontal.png"
+    alt="Horizontal Tagline"
+    width="100%"
+  />
+
 </p>
 
 ---
