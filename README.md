@@ -66,7 +66,7 @@ Hello! I am a **4th-year BS Nursing student at Ateneo de Davao University**. Thi
 
 # 📚 ACTIVITIES
 
-## ✦ PRELIMS
+## 🌌 PRELIMS
 
 ### 🔹 Activity 1 — Presentation Design Principles
 
@@ -118,7 +118,7 @@ This activity involved developing a collaborative Google Slides presentation, ap
 
 ---
 
-# ✦ FINALS
+# 🌌 FINALS
 
 ### 🔹 Activity 5 — AI Tools Activity 
 
