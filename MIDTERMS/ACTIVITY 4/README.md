@@ -3,7 +3,7 @@
 > **Focus:** Collaborative Presentation & Digital Communication
 
 This activity focused on creating and developing a presentation using Google Slides. It involved utilizing the platform's features to organize information, incorporate visual elements, customize slide layouts, and produce a structured and professional presentation.
-aa
+
 ---
 
 ### 🖼️ Activity Output
