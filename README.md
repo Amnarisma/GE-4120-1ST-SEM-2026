@@ -1,16 +1,95 @@
-my-ge4120-final/
-├── README.md
-├── Activity-1/
-│   ├── README.md
-│   └── ...source files
-├── Activity-2/
-│   ├── README.md
-│   └── ...source files
-└── ... through Activity-7/
+# GE-4120 — 1st Semester 2026
+
+A collection of my activities, projects, and outputs for **GE-4120** during the **1st Semester of Academic Year 2026–2027**.
+
+---
+
+## 👋 About Me
+
+<img src="./profile-photo.jpg" alt="Profile Photo" width="180">
+
+**Name:** [Your Full Name]  
+**Course:** [Your Course]  
+**Year Level:** [Your Year Level]  
+**School:** [Your School]
+
+Hello! I am a [year level] student taking up **[course]** at **[school]**. This repository contains my academic activities and projects for GE-4120. Through these activities, I have developed my skills in digital presentation, personal branding, visual communication, information design, and project documentation.
+
+### My Interests
+
+- Digital design and visual communication
+- Creative projects and multimedia
+- Presentation design
+- Personal branding
+- Technology and digital tools
+
+### Skills & Tools
+
+- Microsoft PowerPoint
+- Google Slides
+- Canva
+- Graphic and visual design
+- Presentation design
+- Infographic creation
+- Digital documentation
+- GitHub and Git
+
+---
+
+## 📚 Activities
+
+### PRELIMS
+
+#### Activity 1 — Presentation Design Principles
+
+[View Activity 1](./Activity-1/)
+
+This activity focused on applying basic principles of effective presentation design.
+
+#### Activity 2 — Personal Branding
+
+[View Activity 2](./Activity-2/)
+
+This activity focused on developing a personal visual identity through branding materials.
+
+#### Activity 3 — Social Media Infographics & Project Documentation
+
+[View Activity 3](./Activity-3/)
+
+This activity focused on creating visual content and documenting the project development process.
+
+---
+
+### MIDTERMS
+
+#### Activity 4 — [Activity Title]
+
+[View Activity 4](./Activity-4/)
+
+[Short description of Activity 4.]
+
+#### Activity 5 — [Activity Title]
+
+[View Activity 5](./Activity-5/)
+
+[Short description of Activity 5.]
+
+#### Activity 6 — [Activity Title]
+
+[View Activity 6](./Activity-6/)
+
+[Short description of Activity 6.]
+
+#### Activity 7 — [Activity Title]
+
+[View Activity 7](./Activity-7/)
+
+[Short description of Activity 7.]
+
 
 
 # GE-4120-1ST-SEM-2026
-A collection of projects during the prelim period
+A collection of projects for this subject.
 
 ## TABLE OF CONTENTS
 
@@ -26,6 +105,9 @@ MIDTERMS
 
 </br>
 </br>
+
+
+
 
 PRELIMS
 # Activity 1
