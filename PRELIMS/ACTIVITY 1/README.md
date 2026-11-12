@@ -1,1 +1,1 @@
-### ACTIVITY 1
+###🔹 Activity 1 — Presentation Design Principles
