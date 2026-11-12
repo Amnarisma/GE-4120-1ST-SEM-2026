@@ -9,7 +9,11 @@ This activity focused on creating and developing a presentation using Google Sli
 ### 🖼️ Activity Output
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs/edit?usp=sharing">
+  <a
+    href="https://docs.google.com/presentation/d/1Zxi2jAmBgfcL8c2uq28cN0o4zsk2aKvK6Yseve0MqNs/edit?usp=sharing"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://img.shields.io/badge/OPEN%20GOOGLE%20SLIDES%20PRESENTATION-4285F4?style=for-the-badge&logo=google-slides&logoColor=white"
       alt="Open Google Slides Presentation"
