@@ -1,12 +1,11 @@
 # GE-4120 — 1st Semester 2026
-
 A collection of my activities, projects, and outputs for **GE-4120** during the **1st Semester of Academic Year 2026–2027**.
 
 ---
 
-## 👋 About Me
+## About Me
 
-<img src="./profile-photo.jpg" alt="Profile Photo" width="180">
+<img width="3000" height="2984" alt="NARISMA - ID PIC" src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"/>
 
 **Name:** [Your Full Name]  
 **Course:** [Your Course]  
