@@ -122,7 +122,11 @@ This activity involved developing a collaborative Google Slides presentation, ap
 
 ### 🔹 Activity 5 — AI Tools Activity 
 
-> **Focus:** AI Image Creation <a href="./FINALS/ACTIVITY%205/"> <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%205-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 5"> </a>
+> **Focus:** AI Image Creation
+
+<a href="./FINALS/ACTIVITY%205/">
+<img src="https://img.shields.io/badge/VIEW%20ACTIVITY%205-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 5"> 
+</a>
 
 
 
