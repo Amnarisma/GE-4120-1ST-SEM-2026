@@ -120,7 +120,7 @@ This activity involved developing a collaborative Google Slides presentation, ap
 
 # ✦ FINALS
 
-### 🔹 Activity 5 — [AI Tools Activity]
+### 🔹 Activity 5 — AI Tools Activity
 
 <a href="./FINALS/ACTIVITY%205/">
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%205-5B8DEF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 5">
@@ -130,7 +130,7 @@ This activity explored the use of artificial intelligence tools in generating id
 
 ---
 
-### 🔹 Activity 6 — [MAKING A WEBSITE]
+### 🔹 Activity 6 — MAKING A WEBSITE
 
 <a href="./FINALS/ACTIVITY%206/">
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%206-36CFC9?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 6">
@@ -140,7 +140,7 @@ This activity focused on designing and developing a website using web developmen
 
 ---
 
-### 🔹 Activity 7 — [RESUME GENERATING]
+### 🔹 Activity 7 — RESUME GENERATING
 
 <a href="./FINALS/ACTIVITY%207/">
   <img src="https://img.shields.io/badge/VIEW%20ACTIVITY%207-8A7DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Activity 7">
