@@ -45,7 +45,7 @@ This activity focused on developing a personal visual identity through branding 
 
 #### Activity 3 — Social Media Infographics & Project Documentation
 
-[View Activity 3](./PRELIMS/ACTIVITY%201/)
+[View Activity 3](./PRELIMS/ACTIVITY%203/)
 
 This activity focused on creating visual content and documenting the project development process.
 
@@ -53,9 +53,9 @@ This activity focused on creating visual content and documenting the project dev
 
 ### MIDTERMS
 
-#### Activity 4 — [Activity Title]
+#### Activity 4 — GOOGLE SLIDES PRESENTATION
 
-[View Activity 4](./Activity-4/)
+[View Activity 4](./MIDTERMS/ACTIVITY%204/)
 
 [Short description of Activity 4.]
 
