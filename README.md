@@ -1,52 +1,67 @@
+# 🌌 GE-4120 — 1st Semester SY 2026–2027
 ## 💠 ABOUT ME
 
-<table>
-  <tr>
-    <!-- LEFT COLUMN: PROFILE PHOTO AND INFORMATION -->
-    <td width="30%" align="center" valign="top">
-      <img
-        src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"
-        alt="NARISMA - ID PIC"
-        width="200"
-      />
-      <br><br>
+<p align="center">
+  <img width="180" height="180"
+       src="https://github.com/user-attachments/assets/b119bce5-2bea-4782-b97c-7f77116787cd"
+       alt="NARISMA - ID PIC">
+</p>
 
-      <table>
-        <tr>
-          <td><b>Name</b></td>
-          <td>Narisma, Aryil Mari O.</td>
-        </tr>
-        <tr>
-          <td><b>Course</b></td>
-          <td>BS Nursing</td>
-        </tr>
-        <tr>
-          <td><b>Year Level</b></td>
-          <td>4th Year</td>
-        </tr>
-        <tr>
-          <td><b>School</b></td>
-          <td>Ateneo de Davao University</td>
-        </tr>
-      </table>
-    </td>
+<table align="center">
+<tr>
+<td><b>Name</b></td>
+<td>Narisma, Aryil Mari O.</td>
+</tr>
 
-    <!-- RIGHT COLUMN: INTRODUCTION -->
-    <td width="70%" valign="middle" align="justify">
+<tr>
+<td><b>Course</b></td>
+<td>BS Nursing</td>
+</tr>
 
-      Hello! I am a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University. This repository contains my academic activities, projects, and outputs for GE-4120 during the 1st Semester of School Year 2026–2027.
+<tr>
+<td><b>Year Level</b></td>
+<td>4th Year</td>
+</tr>
 
-      <br><br>
-
-      Through these activities, I have explored different ways of expressing creativity, communicating ideas, and presenting information through digital platforms. I have also developed my skills in presentation design, visual communication, personal branding, and utilizing various digital tools.
-
-      <br><br>
-
-      Outside academics, I enjoy reading books, watching movies, listening to music, and playing games. These interests allow me to explore different perspectives, appreciate creativity, and enjoy my free time.
-
-    </td>
-  </tr>
+<tr>
+<td><b>School</b></td>
+<td>Ateneo de Davao University</td>
+</tr>
 </table>
+
+<br>
+
+Hello! I am a **4th-year BS Nursing student at Ateneo de Davao University**. This repository contains my academic activities, projects, and outputs for **GE-4120** during the 1st Semester of SY 2026–2027. Through these activities, I developed my skills in digital design, presentation, creativity, visual communication, and the use of different digital tools.
+
+---
+
+## 🩵 MY INTERESTS
+
+<p align="center">
+
+`📚 BOOKS` &nbsp;&nbsp;
+`🎬 MOVIES` &nbsp;&nbsp;
+`🎵 MUSIC` &nbsp;&nbsp;
+`🎮 GAMES`
+
+</p>
+
+---
+
+## 🛠️ TOOLS
+
+<table>
+<tr>
+<td>💻 Microsoft PowerPoint</td>
+<td>🎨 Canva</td>
+</tr>
+
+<tr>
+<td>📊 Google Slides</td>
+<td>🖥️ GitHub</td>
+</tr>
+</table>
+
 ---
 
 # 📚 ACTIVITIES
